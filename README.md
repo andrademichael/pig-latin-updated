@@ -2,7 +2,7 @@
 
 #### _Translates plain English into Pig Latin, {08-17-2016}_
 
-#### By _**Kevin Johnston and J'ena SanCartier**_
+#### By _**Kevin Johnston and J'ena SanCartier - and Michael Andrade on the FE/BE commit**_
 
 ## Description
 
